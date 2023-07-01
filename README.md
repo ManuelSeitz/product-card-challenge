@@ -50,4 +50,4 @@ Picture tag is useful.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ManuelSeitz](https://www.frontendmentor.io/profile/ManuelSeitz)
